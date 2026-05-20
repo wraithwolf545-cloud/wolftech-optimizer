@@ -1,0 +1,22 @@
+Privacy Policy
+
+Last updated: May 20, 2026
+
+WolfTech Optimizer is a free local system optimization tool designed by the team from WraithWolf to help users clean temporary files, free up RAM, flush DNS, and manage startup programs on their Windows PC.
+Information We Collect
+This application does not collect, store, or transmit any personal information. All operations are performed locally on your device.
+
+No user accounts
+No internet connection
+No telemetry or analytics
+No data is sent to any server
+
+Permissions
+The application may request Administrator rights only to perform system optimization tasks (such as clearing standby memory and temp files). These permissions are used strictly for the requested functions and nothing else.
+Third-Party Components
+
+EmptyStandbyList.exe (open source utility) is used to clear the Windows Standby List.
+All other functions use standard Windows APIs and PowerShell commands.
+
+Changes to this Policy
+We may update this Privacy Policy occasionally. Any changes will be posted here.
